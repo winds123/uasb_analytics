@@ -39,7 +39,7 @@ Cada hallazgo deberá acompañar de:
 Para cada hallazgo se deberá generar un nuevo proceso en Rapidminer que será exportado (archivo.rmp) y subido a tu cuenta github.
  
 
-Finalmente deberás construir tres archivos llamados "Resultado1.md", "Resultado2.md", "Resultado3.md",  que muestre todo lo descrito en el punto 5 y subirlos a tu cuenta github.
+Finalmente deberás construir tres archivos llamados "Resultado1.md", "Resultado2.md", "Resultado3.md",  que muestre todo lo descrito en el punto 3 y subirlos a tu cuenta github.
 
-*NOTA: Emplear languaje Markdown para construir los resultados y presentar las imagenes en cada archivo*
+*NOTA: Emplear lenguaje Markdown para construir los resultados y presentar las imagenes en cada archivo*
 
