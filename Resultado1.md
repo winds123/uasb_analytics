@@ -1,3 +1,10 @@
+---
+title: "Resultado1.md"
+author: "wwin"
+date: "07/05/2016"
+output: html_document
+---
+
 #Resultado 1
 ##Estudio sobre la máxima instalación diaria en dispositivos
 
