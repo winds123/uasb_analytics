@@ -1,5 +1,5 @@
 ---
-title: "Resultado3.md"
+title: "Resultado2.md"
 author: "wwin"
 date: "07/05/2016"
 output: html_document
