@@ -1,5 +1,5 @@
-﻿Resultado 1
-Estudio sobre la máxima instalación diaria en dispositivos
+#Resultado 1
+##Estudio sobre la máxima instalación diaria en dispositivos
 
 Para dicho estudio se necesitaron las siguientes columnas.
 
